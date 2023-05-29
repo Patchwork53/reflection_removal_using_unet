@@ -47,3 +47,15 @@ https://colab.research.google.com/drive/1hG7nJ-XH6RYqVPldRVxLHeT__wC2ec6Q?usp=sh
 }
 ```
 
+### Results
+```
+epoch = 25
+lr = 0.0003
+dataset_len = 15000
+on_the_fly = False
+```
+
+Input - Target - Output
+![image](https://github.com/PatchworkProgrammer/Reflection_Removal_DL/assets/83033987/712b5dac-2081-4861-a4a1-94ab4b71e207)
+
+[Model Weight](https://www.kaggle.com/datasets/sameen53/unet-model15k)
