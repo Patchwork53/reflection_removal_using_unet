@@ -1,4 +1,4 @@
-# Reflection_Removal_DL
+# Reflection_Removal
 Using UNET to remove reflection from images. Pedagogical model, not intended to be competitive.
 
 
@@ -23,7 +23,7 @@ UNET architecture
 
 Syntethic Image Dataset/Generation
 
-https://colab.research.google.com/drive/1hG7nJ-XH6RYqVPldRVxLHeT__wC2ec6Q?usp=sharing
+https://colab.research.google.com/drive/1S-ERNYh3exswYomyQR5bLCPTg0K-rj5x?usp=sharing
 
 ```
 @inproceedings{zhang2018single,
